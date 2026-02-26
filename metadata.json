@@ -1,0 +1,8 @@
+{
+  "name": "Prosper",
+  "description": "A smart financial ecosystem for tracking, optimizing, and forecasting finances with AI and human advisors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
